@@ -1,0 +1,33 @@
+body {
+    background-color: darkgray;
+}
+
+.header {
+    background-color:rgb(171, 198, 204);
+    height: 200px;
+    padding: 10px;
+
+}
+
+img {
+    padding: 25px;
+}
+
+.head_menu {
+    float: left;
+}
+
+
+h1 {
+    margin: 15px;
+    font-size: 55px;
+}
+
+
+a {
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: none;
+    color: darkblue;
+    margin-left: 50px;
+}
