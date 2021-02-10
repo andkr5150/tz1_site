@@ -31,3 +31,8 @@ a {
     color: darkblue;
     margin-left: 50px;
 }
+
+.block {
+    width: 55%;
+    text-align: justify;
+}
